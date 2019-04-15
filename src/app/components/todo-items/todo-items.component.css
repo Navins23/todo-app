@@ -1,0 +1,8 @@
+button{
+    border-radius: 100%;
+    background-color:red;
+    color:white;
+}
+.is-complete{
+    text-decoration: line-through;
+}
